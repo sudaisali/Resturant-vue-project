@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "username": "sudais",
+      "email": "sudias@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "sudais",
+      "email": "sudaisali420@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "resturants": [
+    {
+      "resname": "Yasir Broast",
+      "resadd": "Johar town",
+      "phnnumber": 3249966909,
+      "id": 1
+    },
+    {
+      "resname": "Retro",
+      "resadd": "Islamabad",
+      "phnnumber": 3249966909,
+      "id": 2
+    },
+    {
+      "resname": "Burger Lab",
+      "resadd": "Johar town",
+      "phnnumber": 3234545641,
+      "id": 3
+    },
+    {
+      "resname": "KFC",
+      "resadd": "Islamabad",
+      "phnnumber": 324464884,
+      "id": 4
+    },
+    {
+      "resname": "Allah Mallik",
+      "resadd": "Johar town",
+      "phnnumber": 3249966909,
+      "id": 5
+    },
+    {
+      "resname": "Aone",
+      "resadd": "Islamabad",
+      "phnnumber": 3249966909,
+      "id": 8
+    },
+    {
+      "resname": "Johar Sweets",
+      "resadd": "Johar town",
+      "phnnumber": 3234545641,
+      "id": 9
+    },
+    {
+      "resname": "Hot Cake",
+      "resadd": "Islamabad",
+      "phnnumber": 324464884,
+      "id": 10
+    },
+    {
+      "resname": "HFC",
+      "resadd": "Johar town",
+      "phnnumber": 3249966909,
+      "id": 11
+    }
+  ]
+}
